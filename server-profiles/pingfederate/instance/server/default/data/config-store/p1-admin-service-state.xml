@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:config xmlns:con="http://www.sourceid.org/2004/05/config">
+    <con:item name="ApplicationDockEndpoint">https://desktop.pingone.com/cd-1899602985.pingidentity</con:item>
+    <con:item name="ProvisioningBaseUrl">https://scim.connect.pingidentity.com/prov-service</con:item>
+    <con:item name="KeyPairAlias">q9isez2qq0f06lwdp7yxwl7v2</con:item>
+    <con:item name="ClientId">7bfd1fc2-d3aa-4443-ac4b-2b258ce79e9c</con:item>
+    <con:item name="AccountId">1236bdf0-a432-4839-bb71-f9edf281780b</con:item>
+    <con:item name="CompanyName">greggdiamant+premera@pingidentity.com</con:item>
+    <con:item name="Associated">true</con:item>
+</con:config>

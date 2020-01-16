@@ -2,4 +2,5 @@
 <con:config xmlns:con="http://www.sourceid.org/2004/05/config">
     <con:map name="docker"/>
     <con:map name="https://httpbin.org"/>
+    <con:map name="http://pingone.com/1236bdf0-a432-4839-bb71-f9edf281780b"/>
 </con:config>
