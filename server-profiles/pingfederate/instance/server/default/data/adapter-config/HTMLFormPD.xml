@@ -5,15 +5,15 @@
         <urn:Field name="Session State">None</urn:Field>
         <urn:Field name="Session Timeout">60</urn:Field>
         <urn:Field name="Session Max Timeout">480</urn:Field>
-        <urn:Field name="Allow Password Changes">false</urn:Field>
+        <urn:Field name="Allow Password Changes">true</urn:Field>
         <urn:Field name="Password Management System"/>
         <urn:Field name="Enable 'Remember My Username'">false</urn:Field>
         <urn:Field name="Enable 'This is My Device'">false</urn:Field>
         <urn:Field name="Change Password Email Notification">false</urn:Field>
         <urn:Field name="Show Password Expiring Warning">false</urn:Field>
-        <urn:Field name="Password Reset Type">NONE</urn:Field>
+        <urn:Field name="Password Reset Type">PingID</urn:Field>
         <urn:Field name="Password Reset Policy Contract"/>
-        <urn:Field name="Account Unlock">false</urn:Field>
+        <urn:Field name="Account Unlock">true</urn:Field>
         <urn:Field name="Local Identity Profile">RBSQIwi5KWYN9ZGK</urn:Field>
         <urn:Field name="Notification Publisher"/>
         <urn:Field name="Enable Username Recovery">false</urn:Field>
@@ -42,7 +42,7 @@
         <urn:Field name="Account Unlock Template">account-unlock.html</urn:Field>
         <urn:Field name="OTP Length">8</urn:Field>
         <urn:Field name="OTP Time to Live">10</urn:Field>
-        <urn:Field name="PingID Properties"/>
+        <urn:Field name="PingID Properties">eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2Iiwia2lkIjoiRW1JY1UxOVdueSIsInZlcnNpb24iOiIxMC4wLjAuMTUiLCJ6aXAiOiJERUYifQ.._vKZyM1WqVbpJZqiqqNLoQ.ItP_ulsJvirYlfD2mvQCE7rZp_g3vk9FKoRh-ZotBB1ivSIVNMb5-m8TGnHqTuV4_Yv5lnVrAH2cRMBeuWMryZrbhJAIujuRaN3kmOVgCY9ozfrHPjB6DeoKqYXIWqwp50cKm-4-GoxFppsxp2d_i_UsB15lsnW1G6V-3_jC_mU__Fw8Jq_Q9RCDME8k3yliLYIgBGEI-49YM5TXkiEUMnPw3X-d8FQBjgLi5mquuwIt7yjVHUwxqnIaP2jnJCs9qmrfaniftKTI31_UHj29IG2QxKTuhpS-PmzQJw1R28wmgZrWWsEbHOIz7aJOcWbJKKOf50f_YAJorOa6e2p5z1S9tjpC23kFTJp27SJMmwKTGr1C9ZrWAZtkLA0XExardsMftihB3nnGo33NE-Rj7WX6uMHg_lTkZZ_Dc524SRU.eUzTEc8Eg5Mdg4N_wY8boQ</urn:Field>
         <urn:Field name="Require Verified Email">false</urn:Field>
         <urn:Field name="Username Recovery Template">username.recovery.template.html</urn:Field>
         <urn:Field name="Username Recovery Info Template">username.recovery.info.template.html</urn:Field>
@@ -78,7 +78,7 @@
         <urn:Field name="Account Unlock Template">account-unlock.html</urn:Field>
         <urn:Field name="OTP Length">8</urn:Field>
         <urn:Field name="OTP Time to Live">10</urn:Field>
-        <urn:Field name="PingID Properties"/>
+        <urn:Field name="PingID Properties">eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2Iiwia2lkIjoiRW1JY1UxOVdueSIsInZlcnNpb24iOiIxMC4wLjAuMTUiLCJ6aXAiOiJERUYifQ.._vKZyM1WqVbpJZqiqqNLoQ.ItP_ulsJvirYlfD2mvQCE7rZp_g3vk9FKoRh-ZotBB1ivSIVNMb5-m8TGnHqTuV4_Yv5lnVrAH2cRMBeuWMryZrbhJAIujuRaN3kmOVgCY9ozfrHPjB6DeoKqYXIWqwp50cKm-4-GoxFppsxp2d_i_UsB15lsnW1G6V-3_jC_mU__Fw8Jq_Q9RCDME8k3yliLYIgBGEI-49YM5TXkiEUMnPw3X-d8FQBjgLi5mquuwIt7yjVHUwxqnIaP2jnJCs9qmrfaniftKTI31_UHj29IG2QxKTuhpS-PmzQJw1R28wmgZrWWsEbHOIz7aJOcWbJKKOf50f_YAJorOa6e2p5z1S9tjpC23kFTJp27SJMmwKTGr1C9ZrWAZtkLA0XExardsMftihB3nnGo33NE-Rj7WX6uMHg_lTkZZ_Dc524SRU.eUzTEc8Eg5Mdg4N_wY8boQ</urn:Field>
         <urn:Field name="Require Verified Email">false</urn:Field>
         <urn:Field name="Username Recovery Template">username.recovery.template.html</urn:Field>
         <urn:Field name="Username Recovery Info Template">username.recovery.info.template.html</urn:Field>

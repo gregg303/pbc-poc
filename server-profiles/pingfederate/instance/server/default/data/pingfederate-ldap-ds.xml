@@ -3,10 +3,10 @@
     <ldap:ldap-source id="LDAP-D803C87FAB2ADFB4B0A947B64BA6F0C6093A5CA3" maskAttributeValues="false" ldapType="PingDirectory" ldapTypeDesc="PingDirectory" testOnBorrow="false" testOnReturn="false" createIfNecessary="true" minIdle="10" maxActive="100" maxWait="-1" timeBetweenEvictionRunsMillis="60000" readTimeoutMillis="3000" connTimeoutMillis="3000" verifyHost="true" dnsTtlMillis="60000" ldapDnsSrvPrefix="_ldap._tcp" ldapsDnsSrvPrefix="_ldaps._tcp">
         <ldap:host>pingdirectory</ldap:host>
         <ldap:principal>cn=pingfederate</ldap:principal>
-        <ldap:use-ssl>true</ldap:use-ssl>
+        <ldap:use-ssl>false</ldap:use-ssl>
         <ldap:use-dns-srv-records>false</ldap:use-dns-srv-records>
         <ldap:ad-referral>false</ldap:ad-referral>
-        <ldap:credentials>eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2Iiwia2lkIjoiRW1JY1UxOVdueSIsInZlcnNpb24iOiIxMC4wLjAuMTUifQ..esTh8VnbMpocP2QiO2TIQw.C1pfl_dlsN7QoPXVUYmfiQ.ORVINE8I9TTWq4MlI4txCA</ldap:credentials>
+        <ldap:credentials>eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2Iiwia2lkIjoiRW1JY1UxOVdueSIsInZlcnNpb24iOiIxMC4wLjAuMTUifQ..61ryVK0s9zt3neLhu7pRaw.3JX43gbQs_LCJR6hqkjN7g.tWIh_g2ERCzeu1Oi6u1bYw</ldap:credentials>
         <ldap:authenticationMeth>simple</ldap:authenticationMeth>
         <ldap:description>pingdirectory</ldap:description>
         <ldap:name>pingdirectory</ldap:name>
