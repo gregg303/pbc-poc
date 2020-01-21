@@ -7,8 +7,8 @@
         <urn:Field name="Session Max Timeout">480</urn:Field>
         <urn:Field name="Allow Password Changes">true</urn:Field>
         <urn:Field name="Password Management System"/>
-        <urn:Field name="Enable 'Remember My Username'">false</urn:Field>
-        <urn:Field name="Enable 'This is My Device'">false</urn:Field>
+        <urn:Field name="Enable 'Remember My Username'">true</urn:Field>
+        <urn:Field name="Enable 'This is My Device'">true</urn:Field>
         <urn:Field name="Change Password Email Notification">false</urn:Field>
         <urn:Field name="Show Password Expiring Warning">false</urn:Field>
         <urn:Field name="Password Reset Type">PingID</urn:Field>
