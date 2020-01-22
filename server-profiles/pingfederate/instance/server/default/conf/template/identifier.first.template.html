@@ -45,8 +45,8 @@ is not recommended as it may interfere with expected server behavior.
     if there is a logo present in the 'company-logo' container,
     then 'has-logo' class should be added to 'ping-header' container.
     -->
-    <div class="ping-header">
-        <span class="company-logo"><!-- client company logo here --></span>
+    <div class="ping-header has-logo">
+        <span class="company-logo"><img src="assets/images/premeralogo1.png"></img></span>
         <text id="company-logo-div-text">
             #if ($existing_identifiers.size() > 0)
             $templateMessages.getMessage($messageKeyPrefix, "selectTitle")
